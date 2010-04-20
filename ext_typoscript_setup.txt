@@ -1,0 +1,6 @@
+page {
+  includeCSS {
+    reset = EXT:cretection_reset_css/css/reset.css
+    reset.media = all
+  }
+}
