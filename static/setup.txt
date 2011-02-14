@@ -1,0 +1,3 @@
+page.headerData.10 = TEXT
+page.headerData.10.value = EXT:cretection_reset_css/css/reset.css
+page.headerData.10.wrap = <link rel="stylesheet" type="text/css" href="|" media="all" />
